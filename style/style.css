@@ -1,0 +1,17 @@
+.center{
+    text-align: center;
+}
+.block{
+    background: #fc0; /* Цвет фона */
+    width: 1024px; /* Ширина блока */
+    padding: 10px; /* Поля */
+    margin-top: 10px; /* Отступ сверху */
+    border: 2px solid #000; /* Параметры рамки */
+    box-sizing: border-box; /* Ширина блока с полями */
+
+    font-style: normal;
+    font-size: 19px;
+    font-family: "Helvetic", sans-serif;
+    color: #333333;
+
+}
